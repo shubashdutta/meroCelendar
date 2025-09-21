@@ -2,7 +2,7 @@
   "name": "celender",
   "version": "0.1.0",
   "private": true,
-"homepage": "https://shubashdutta.github.io/meroCelendar"
+"homepage": "https://shubashdutta.github.io/meroCelendar",
 
 
   "dependencies": {
@@ -59,6 +59,7 @@
     "gh-pages": "^6.3.0"
   }
 }
+
 
 
 
