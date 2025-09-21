@@ -2,7 +2,8 @@
   "name": "celender",
   "version": "0.1.0",
   "private": true,
-"homePage":https://shubashdutta.github.io/meroCelendar,
+"homepage": "https://shubashdutta.github.io/meroCelendar"
+
 
   "dependencies": {
     "@sbmdkl/nepali-datepicker-reactjs": "^1.2.2",
@@ -58,6 +59,7 @@
     "gh-pages": "^6.3.0"
   }
 }
+
 
 
 
